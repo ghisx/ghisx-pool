@@ -1,7 +1,7 @@
 {
   "info ": {
-    "url_png_icon_64x64": "https://ghisx-pool.com/wp-content/uploads/icon_64x64.png",
-    "url_png_logo": "https://https://ghisx-pool.com/wp-content/uploads/icon_400x400.jpg",
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/ghisx/ghisx-pool/refs/heads/main/Icons/icon_64x64.png",
+    "url_png_logo": "https://raw.githubusercontent.com/ghisx/ghisx-pool/refs/heads/main/Icons/icon_400x400.png",
     "location": "Paris, France",
     "social": {
         "twitter_handle": "ghisxpool",
@@ -12,7 +12,7 @@
         "discord_handle": ""
   },
   "about": {
-      "me": "Ghisx pool is a stake pool run by Cedric, a software engineer and blockchain enthusiast who is a long time community member. One of his passion is to contribute at the creation of a better decentralized future.",
+      "me": "Hey! I am Cedric, a stake pool operator and DRep I am a software engineer and blockchain enthusiast who is a long time community member. One of my passion is to contribute at the creation of a better decentralized future.",
       "server": "Cloud-based servers hosted by a leading hosting provider with state-of-the-art data centers",
       "company": ""
     }
